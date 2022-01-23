@@ -1,0 +1,31 @@
+pnt 11 #550000 #ff000
+pnt 27 #550000 #ff000
+pnt 12 #FF33EA rgb(255,0,0)
+pnt 13 #FF33EA rgb(255,8,8)
+pnt 14 #FF33EA rgb(255,16,16)
+pnt 15 #FF33EA rgb(255,24,24)
+pnt 16 #FF33EA rgb(255,32,32)
+pnt 17 #FF33EA rgb(255,40,40)
+pnt 18 #FF33EA rgb(255,48,48)
+pnt 19 #FF33EA rgb(255,56,56)
+pnt 20 #FF33EA rgb(255,64,64)
+pnt 21 #FF33EA rgb(255,72,72)
+pnt 22 #FF33EA rgb(255,80,80)
+pnt 23 #FF33EA rgb(255,88,88)
+pnt 24 #FF33EA rgb(255,96,96)
+pnt 25 #FF33EA rgb(255,104,104)
+pnt 26 #FF33EA rgb(255,112,112)
+delf 13
+delf 14
+delf 15
+delf 16
+delf 17
+delf 18
+delf 19
+delf 20
+delf 21
+delf 22
+delf 23
+delf 24
+delf 25
+delf 26
