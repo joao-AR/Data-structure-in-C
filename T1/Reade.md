@@ -1,0 +1,1 @@
+This assignment uses the following data structures: stack, queue and dynamic list.
